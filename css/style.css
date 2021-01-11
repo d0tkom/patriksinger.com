@@ -92,7 +92,11 @@ section {
   padding-bottom: 50px;
 }
 
-#courses {
+section {
+  padding: 15px;
+}
+
+.section-content {
   border-top: 2px solid black;
 }
 
