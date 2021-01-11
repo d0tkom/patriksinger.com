@@ -43,27 +43,13 @@ nav h1 {
 }
 
 
-ul {
+#nav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   width: 100%;
   border-bottom: 2px solid black;
-}
-
-li {
-  float: right;
-}
-
-li a {
-  display: block;
-  color: black;
-  text-decoration: none;
-  text-align: center;
-  position: fixed;
-  left: 0;
-  bottom: 0;
 }
 
 footer {
@@ -100,4 +86,16 @@ figcaption {
 figure img {
   width: 100%;
   border-radius: 10px;
+}
+
+section {
+  padding-bottom: 50px;
+}
+
+#courses {
+  border-top: 2px solid black;
+}
+
+ul {
+  text-align: left;
 }
